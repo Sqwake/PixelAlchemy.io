@@ -13,10 +13,6 @@
 - **Retro Gaming:** A fully functional, retro "Snake" mini-game built directly into one of the cards.
 - **Glassmorphism:** Matte-glass effects on navigation and UI containers.
 
-## 📸 Screenshots
-![Main Dashboard](https://raw.githubusercontent.com/sqwake/PixelAlchemy.io/main/screenshots/main.png)
-*(Note: To make this image appear, create a folder named `screenshots` in your repository, upload your screenshot there, and name it `main.png`)*
-
 ## 🛠 Tech Stack
 - **HTML5** — Semantic layout structure.
 - **CSS3** — Custom properties (variables), Flexbox, Grid, and keyframe animations.
