@@ -2,7 +2,6 @@
 
 **PixelAlchemy** is a conceptual web interface featuring a deep cyberpunk aesthetic, neon gradients, and immersive interactive elements. This project showcases modern CSS capabilities, glassmorphism, advanced animations, and dynamic user interaction.
 
-[🚀 Live Demo](https://sqwake.github.io/PixelAlchemy.io/)
 
 ---
 
